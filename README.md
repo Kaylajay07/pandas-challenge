@@ -1,3 +1,11 @@
 # pandas-challenge
 
-In this challenge, I used what I have learned in pandas to show trends in performance of individual schools by analyzing district wide data. 
+In this challenge, I used what I have learned to create and manipulate Pandas DataFrames, to analyze school and standardized test data.
+
+Dependencies
+ - Pandas and Pathlib 
+
+
+
+
+
